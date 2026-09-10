@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡**TECH ENTHUSIAST**
-- 🌱 I’m currently learning Fundamentals of Computer Vision & Image Processing.
+- 🌱 I’m currently learning Computer Science.
